@@ -114,14 +114,13 @@ Classification and retention analytics system for churn risk scoring, interpreta
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aadyakapoor&show_icons=true&theme=dark&count_private=true" alt="Aadya's GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aadyakapoor&theme=dark" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aadyakapoor&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800"/>
+  <img src="https://streak-stats.demolab.com?user=aadyakapoor&theme=github-dark&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadyakapoor&layout=compact&theme=dark" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadyakapoor&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
-
 ---
 
 ### 📈 Contribution Graph
@@ -135,7 +134,7 @@ Classification and retention analytics system for churn risk scoring, interpreta
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aadyakapoor&theme=darkhub&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=aadyakapoor&theme=onedark&no-frame=true&margin-w=15"/>
 </p>
 
 ---
@@ -151,7 +150,7 @@ Classification and retention analytics system for churn risk scoring, interpreta
 ### 📌 Top Contributed Repo
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=aadyakapoor&limit=1&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo"/>
+<img src="https://github-contributor-stats.vercel.app/api?username=aadyakapoor&limit=5&theme=github_dark&combine_all_yearly_contributions=true"/>
 </p>
 
 ---
