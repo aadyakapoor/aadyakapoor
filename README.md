@@ -111,30 +111,10 @@ Classification and retention analytics system for churn risk scoring, interpreta
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aadyakapoor&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800"/>
-  <img src="https://streak-stats.demolab.com?user=aadyakapoor&theme=github-dark&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadyakapoor&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
----
-
 ### 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aadyakapoor&theme=github-compact" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=aadyakapoor&theme=onedark&no-frame=true&margin-w=15"/>
 </p>
 
 ---
@@ -147,14 +127,6 @@ Classification and retention analytics system for churn risk scoring, interpreta
 
 ---
 
-### 📌 Top Contributed Repo
-
-<p align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=aadyakapoor&limit=5&theme=github_dark&combine_all_yearly_contributions=true"/>
-</p>
-
----
-
 ### 📫 Connect with me
 
 - 📍 Gurgaon, India
@@ -163,4 +135,18 @@ Classification and retention analytics system for churn risk scoring, interpreta
 - 🧩 100+ DSA problems solved on LeetCode
 
 <p align="center"><i>"Simpler production models beat unnecessary complexity."</i></p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aadyakapoor/aadyakapoor/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+<br>
+
+<p align="center">
+⭐ Thanks for visiting my profile! Feel free to connect or collaborate. ⭐
+</p>
 
